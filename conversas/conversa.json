@@ -1,0 +1,16 @@
+[
+  {
+    "role": "system",
+    "content": "Responda em português."
+  },
+  {
+    "role": "user",
+    "content": "aaa"
+  },
+  {
+    "role": "assistant",
+    "reasoning_content": null,
+    "content": "Entendi! Você digitou \"aaa\". \n\nÉ apenas uma repetição de letras, certo? Se você tiver alguma pergunta, precisar de ajuda com algo ou quiser conversar sobre algo específico, pode me dizer! 😉\n",
+    "tool_calls": []
+  }
+]
